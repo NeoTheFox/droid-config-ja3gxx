@@ -5,6 +5,7 @@ Description: Pattern with packages for ja3gxx HW Adaptation
 Name: jolla-hw-adaptation-ja3gxx
 Requires:
 - droid-hal-ja3gxx
+- droid-hal-ja3gxx-detritus
 - droid-hal-ja3gxx-img-boot
 - droid-hal-ja3gxx-kernel-modules
 - droid-config-ja3gxx-sailfish
