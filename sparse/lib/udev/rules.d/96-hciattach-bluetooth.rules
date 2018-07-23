@@ -1,0 +1,2 @@
+ACTION=="add", KERNEL=="ttySAC0", ENV{SYSTEMD_WANTS}=="dev-ttySAC0.device"
+KERNEL=="rfcomm*", MODE="0666", GROUP="bluetooth", OWNER="bluetooth"

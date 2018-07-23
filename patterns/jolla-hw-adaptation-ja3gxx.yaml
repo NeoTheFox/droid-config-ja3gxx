@@ -13,7 +13,7 @@ Requires:
 - droid-config-ja3gxx-policy-settings
 - droid-config-ja3gxx-preinit-plugin
 - droid-config-ja3gxx-flashing
-- droid-config-ja3gxx-bluez5
+- droid-config-ja3gxx-bluez4
 - droid-hal-version-ja3gxx
 
 # Hybris packages
